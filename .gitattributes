@@ -2,3 +2,5 @@
 * text=auto
 Karch-Linux.part1.rar filter=lfs diff=lfs merge=lfs -text
 Karch-Linux.part2.rar filter=lfs diff=lfs merge=lfs -text
+Karch-Linux.part3.rar filter=lfs diff=lfs merge=lfs -text
+Karch-Linux.part4.rar filter=lfs diff=lfs merge=lfs -text
