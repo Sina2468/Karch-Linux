@@ -1,0 +1,25 @@
+netdiscover ✅
+nmap ✅
+
+BurpSuite ✅
+Sqlmap ✅
+
+crunch ✅
+hashcat ✅
+hydra ✅
+john ✅
+
+aircrack-ng ✅
+wifite ==> hcxdumptool , hcxtools ✅
+
+metasploit-framework ✅ 
+setoolkit ✅
+
+Ettercap ✅
+macchanger ✅
+wireshark ✅
+ 
+xfreerdp ✅
+
+firefox ✅
+git ✅
