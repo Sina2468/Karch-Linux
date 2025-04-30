@@ -1,4 +1,4 @@
-# [Karch-linux](https://github.com/Sina2468/Karch-Linux.git) . [![GitHub license](https://img.shields.io/badge/license-MIT-red.svg)](LICENSE) ![version](https://img.shields.io/badge/Version-1.0-blue.svg)
+# [Karch-linux](https://github.com/Sina2468/Karch-Linux.git) . [![GitHub license](https://img.shields.io/badge/license-MIT-red.svg)](./LICENSE) ![version](https://img.shields.io/badge/Version-1.0-blue.svg)
 
 Karch-linux :
 
@@ -41,4 +41,4 @@ A **live** version of Arch-linux with some Kali-linux tools such as :
 
 ## License
 
-[MIT licensed](LICENSE)
+[MIT licensed](./LICENSE)
