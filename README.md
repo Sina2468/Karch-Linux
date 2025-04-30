@@ -41,4 +41,4 @@ A **live** version of Arch-linux with some Kali-linux tools such as :
 
 ## License
 
-React is [MIT licensed](LICENSE).
+[MIT licensed](LICENSE)
